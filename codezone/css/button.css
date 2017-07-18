@@ -1,0 +1,36 @@
+.menu2 {
+	margin: 0px 0 0;
+	padding: 0;
+	list-style: none;
+	width: 100%
+}
+.menu2 li {
+	padding: 0;
+	margin: 0 0px;
+	float: left;
+	position: relative;
+	text-align: center;
+}
+.menu2 a {
+	padding: 8px 5px;
+	display: block;
+	color: #000000;
+	width: 94px;
+	text-decoration: none;
+	font-weight: bold;
+	background: url(images2/button.gif) no-repeat center center;
+}
+.menu2 li em {
+	font-weight: normal;
+	background: url(images2/hover.png) no-repeat;
+	width: 180px;
+	height: 45px;
+	position: absolute;
+	top: -85px;
+	left: -15px;
+	text-align: center;
+	padding: 20px 12px 10px;
+	font-style: normal;
+	z-index: 2;
+	display: none;
+}

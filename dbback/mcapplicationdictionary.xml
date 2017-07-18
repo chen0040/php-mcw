@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<mcapplicationdictionary>
+  <applicationdictionary id="1" detail="Graph Bisection" parentid="100000" description=""/>
+  <applicationdictionary id="2" detail="SAT" parentid="100000" description=""/>
+  <applicationdictionary id="3" detail="Iterated Prisoner Dilemma" parentid="100000" description=""/>
+  <applicationdictionary id="4" detail="Set Partitioning Problem" parentid="100000" description=""/>
+  <applicationdictionary id="5" detail="Max Cut Problem" parentid="100000" description=""/>
+  <applicationdictionary id="6" detail="Team Orientation Problem" parentid="100000" description=""/>
+  <applicationdictionary id="7" detail="Graph Coloring" parentid="100000" description=""/>
+  <applicationdictionary id="8" detail="String Problem" parentid="100000" description=""/>
+  <applicationdictionary id="9" detail="Constraint Satisfaction Problem" parentid="100000" description=""/>
+  <applicationdictionary id="10" detail="Golomb Rulers Problem" parentid="100000" description=""/>
+  <applicationdictionary id="11" detail="Still Life Problem" parentid="100000" description=""/>
+  <applicationdictionary id="12" detail="Social Golfers" parentid="100000" description=""/>
+  <applicationdictionary id="13" detail="Graph Matching" parentid="100000" description=""/>
+  <applicationdictionary id="14" detail="Bin Packing " parentid="100000" description=""/>
+  <applicationdictionary id="15" detail="MinLA Problem" parentid="100000" description=""/>
+  <applicationdictionary id="16" detail="Unit Commitment" parentid="100000" description=""/>
+  <applicationdictionary id="17" detail="Finance" parentid="100001" description=""/>
+  <applicationdictionary id="18" detail="Biology" parentid="100001" description=""/>
+  <applicationdictionary id="20" detail="Production Scheduling" parentid="100001" description=""/>
+  <applicationdictionary id="21" detail="Micro-electronics" parentid="100001" description=""/>
+  <applicationdictionary id="22" detail="Transportation Scheduling" parentid="100001" description=""/>
+  <applicationdictionary id="23" detail="Statistical Modeling and Estimation" parentid="100001" description=""/>
+  <applicationdictionary id="24" detail="Complex System" parentid="100001" description=""/>
+  <applicationdictionary id="25" detail="Security and Cryptography" parentid="100001" description=""/>
+  <applicationdictionary id="26" detail="E-learning" parentid="100001" description=""/>
+  <applicationdictionary id="27" detail="Graphics and Image Processing" parentid="100001" description=""/>
+  <applicationdictionary id="28" detail="Database Query" parentid="100001" description=""/>
+  <applicationdictionary id="29" detail="Machine Learning" parentid="0" description="Wikipedia: Machine learning is a scientific discipline that is concerned with the design and development of algorithms that allow computers to change behavior based on data, such as from sensor data or databases. A major focus of machine learning research is to automatically learn to recognize complex patterns and make intelligent decisions based on data. Hence, machine learning is closely related to fields such as statistics, probability theory, data mining, pattern recognition, artificial intelligence, adaptive control, and theoretical computer science."/>
+  <applicationdictionary id="30" detail="Test Data Generation" parentid="100001" description=""/>
+  <applicationdictionary id="31" detail="Communication" parentid="100001" description=""/>
+  <applicationdictionary id="32" detail="Engineering Design" parentid="100001" description=""/>
+  <applicationdictionary id="33" detail="Hardware-based Impelementation " parentid="100001" description=""/>
+  <applicationdictionary id="34" detail="Multi-Objective Optimization" parentid="100002" description=""/>
+  <applicationdictionary id="35" detail="Optimization in Uncertain and Dynamic Environment" parentid="100002" description=""/>
+  <applicationdictionary id="36" detail="Large-Scale Optimization Problems" parentid="100002" description=""/>
+  <applicationdictionary id="100000" detail="Simplified Benchmarks" parentid="0" description=""/>
+  <applicationdictionary id="100001" detail="Real-World Problems" parentid="0" description=""/>
+  <applicationdictionary id="100002" detail="Nature of Problem" parentid="0" description=""/>
+  <applicationdictionary id="100003" detail="Operational Research and Optimization" parentid="0" description="&amp;lt;h4&amp;gt;Operational Research&amp;lt;/h4&amp;gt;[br]&amp;lt;p&amp;gt;Operational Research (OR) is an interdisciplinary branch of applied mathematics and formal science that uses methods such as mathematical modeling, statistics, and algorithms to arrive at optimal or near optimal solutions to complex problems. It is typically concerned with determining the maxima (of profit, assembly line performance, crop yield, bandwidth, etc) or minima (of loss, risk, etc.) of some objective function. Operations research helps management achieve its goals using scientific methods. Originating in military efforts before World War II, its techniques have grown to concern problems in a variety of industries.&amp;lt;/p&amp;gt;[br][br]&amp;lt;h4&amp;gt;Optimization Theory&amp;lt;/h4&amp;gt;[br]&amp;lt;p&amp;gt;Optimization theory is the study of the mathematical properties of optimization problems and the analysis of algorithms for their solutions. It deals with the problem of minimizing or maximizing a mathematical model of an objective function such as cost, fuel consumption, etc., subject to a set of constraints.&amp;lt;/p&amp;gt;"/>
+  <applicationdictionary id="100004" detail="Automatic Programming" parentid="0" description="Wikipedia: In computer science, the term automatic programming identifies a type of computer programming in which some mechanism generates a computer program rather than have human programmers write the code.There has been little agreement on the precise definition of automatic programming, mostly because its meaning has changed over time. David Parnas, tracing the history of \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&quot;automatic programming\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&quot; in published research, noted that in the 1940s it described automation of the manual process of punching paper tape. Later it referred to translation of high-level programming languages like Fortran and ALGOL. In fact, one of the earliest programs identifiable as a compiler was called Autocode. Parnas concluded that \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&quot;automatic programming has always been a euphemism for programming in a higher-level language than was then available to the programmer.\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\&quot;"/>
+  <applicationdictionary id="100005" detail="Traveling Salesman Problem" parentid="100006" description="Wikipedia: The Travelling Salesman Problem (TSP) is a problem in combinatorial optimization studied in operations research and theoretical computer science. Given a list of cities and their pairwise distances, the task is to find a shortest possible tour that visits each city exactly once."/>
+  <applicationdictionary id="100006" detail="OR Combinatorial Optimization" parentid="100003" description="Combinatorial Optimization under Operational Research"/>
+  <applicationdictionary id="100007" detail="Quardratic Assignment Problem" parentid="100006" description="&lt;p&gt;The quadratic assignment problem (QAP) is one of fundamental combinatorial optimization problems in the branch of optimization or operations research in mathematics, from the category of the facilities location problems.&lt;/p&gt;&lt;p&gt;The problem models the following real-life problem: There are a set of n facilities and a set of n locations. For each pair of locations, a distance is specified and for each pair of facilities a weight or flow is specified (e.g., the amount of supplies transported between the two facilities). The problem is to assign all facilities to different locations with the goal of minimizing the sum of the distances multiplied by the corresponding flows. &lt;/p&gt;&lt;p&gt;The problem statement resembles that of the assignment problem, only the cost function is expressed in terms of quadratic inequalities, hence the name.&lt;/p&gt;"/>
+  <applicationdictionary id="100008" detail="Protein Structure Prediction" parentid="100006" description="Protein structure prediction is the prediction of the three-dimensional structure of a protein from its amino acid sequence&#x2014;that is, the prediction of a protein\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\'s tertiary structure from its primary structure (structure prediction is fundamentally different from the inverse, and less difficult, problem of protein design). Protein structure prediction is one of the most important goals pursued by bioinformatics and theoretical chemistry. Protein structure prediction is of high importance in medicine (for example, in drug design) and biotechnology (for example, in the design of novel enzymes). Every two years, the performance of current methods is assessed in the CASP experiment."/>
+  <applicationdictionary id="100009" detail="Binary Quadratic Programming" parentid="100006" description="Quadratic programming (QP) is a special type of mathematical optimization problem. It is the problem of optimizing (minimizing or maximizing) a quadratic function of several variables subject to linear constraints on these variables."/>
+  <applicationdictionary id="100010" detail="Continuous Benchmark Problems" parentid="0" description=""/>
+</mcapplicationdictionary>

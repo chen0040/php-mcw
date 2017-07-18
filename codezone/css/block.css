@@ -1,0 +1,31 @@
+﻿.block
+{
+	background-color: #ccc;
+	margin: 10px;
+	border-top: 3px solid #444;
+	border-left: 3px solid #444;
+	border-bottom: 3px solid #888;
+	border-right: 3px solid #888;
+}
+
+.blockhover
+{
+	background-color: #afa;
+}
+
+.blocktitle
+{
+	cursor: pointer;
+	margin: 10px;
+}
+
+.blockcontents {
+  width: 800px;
+  background-color: #fff;
+}
+
+.hideblock
+{
+	display:none;
+}
+

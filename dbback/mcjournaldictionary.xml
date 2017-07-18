@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<mcjournaldictionary>
+  <journaldictionary id="1" detail="IEEE Transaction" parentid="12" description="IEEE Transaction is a collection of journals under IEEE Transaction"/>
+  <journaldictionary id="2" detail="IEEE TEC" parentid="1" description="IEEE Transaction on Evolutionary Computation"/>
+  <journaldictionary id="3" detail="Book Compilation" parentid="0" description="This category contains a list of book in which articles referred are included"/>
+  <journaldictionary id="4" detail="New Ideas in Optimization" parentid="3" description=""/>
+  <journaldictionary id="5" detail="IEEE SMC Part B" parentid="1" description="IEEE Transactions on Systems, Man, and Cybernetics, Part B: Cybernetics"/>
+  <journaldictionary id="6" detail="Intelligent Data Analysis" parentid="12" description=""/>
+  <journaldictionary id="7" detail="Parallel Processing and Applied Mathematics" parentid="10" description=""/>
+  <journaldictionary id="8" detail="Congress on Evolutionary Computation (CEC)" parentid="10" description="IEEE Congress on Evolutionary Computation"/>
+  <journaldictionary id="9" detail="Recent Advances in Evolutionary Computation for Combinatorial Optimization" parentid="3" description="Recent Advances in Evolutionary Computation for Combinatorial Optimization"/>
+  <journaldictionary id="10" detail="Conference" parentid="0" description=""/>
+  <journaldictionary id="11" detail="EvoWorkshops on EvoCoMnet, EvoFIN, EvoIASP,EvoINTERACTION, EvoMUSART, EvoSTOC and EvoTransLog" parentid="10" description=""/>
+  <journaldictionary id="12" detail="Journal Publication" parentid="0" description=""/>
+  <journaldictionary id="13" detail="Soft Computing" parentid="12" description=""/>
+  <journaldictionary id="14" detail="Studies in Computational Intelligence" parentid="12" description=""/>
+  <journaldictionary id="15" detail="Applied Intelligence" parentid="12" description=""/>
+  <journaldictionary id="16" detail="PPSN" parentid="10" description="Conference on Parallel Problem Solving From Nature"/>
+  <journaldictionary id="17" detail="Computers and Operations Research" parentid="12" description=""/>
+  <journaldictionary id="18" detail="Lecture Notes in Computer Science" parentid="12" description="Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics) 3809 LNAI"/>
+  <journaldictionary id="19" detail="International Journal of Parallel Programming" parentid="12" description="Int. J. Parallel Program."/>
+  <journaldictionary id="20" detail="Advances in Neural Networks" parentid="12" description=""/>
+  <journaldictionary id="21" detail="International Workshop on Nature Inspired Cooperative Strategies for Optimization (NICSO)" parentid="10" description="International Workshop on Nature Inspired Cooperative Strategies for Optimization "/>
+  <journaldictionary id="22" detail="Pattern Recognition" parentid="12" description=""/>
+  <journaldictionary id="23" detail="International Conference on Communications and Networking in China" parentid="10" description=""/>
+  <journaldictionary id="24" detail="Journal of Heuristics" parentid="12" description=""/>
+  <journaldictionary id="25" detail="Memetic Computing" parentid="12" description=""/>
+  <journaldictionary id="26" detail="International Conference on Modeling Decisions for Artificial Intelligence" parentid="10" description=""/>
+  <journaldictionary id="27" detail="Genetic Programming and Evolvable Machines" parentid="12" description=""/>
+  <journaldictionary id="28" detail="Natural Computing" parentid="12" description="Natural Computing: an international journal"/>
+  <journaldictionary id="29" detail="International Joint Conference on Neural Networks (IJCNN)" parentid="10" description="International Joint Conference on Neural Networks"/>
+  <journaldictionary id="30" detail="EvoWorkshops on Applications of Evolutionary Computing" parentid="10" description=""/>
+  <journaldictionary id="31" detail="International Parallel &amp; Distributed Processing Symposium (IPDPS)" parentid="10" description="IPDPS"/>
+  <journaldictionary id="32" detail="Optimization" parentid="3" description="A journal of Mathematical Programming on Operational Research"/>
+  <journaldictionary id="33" detail="Conference on Genetic and Evolutionary Computation (GECCO)" parentid="10" description=""/>
+  <journaldictionary id="34" detail="International Journal on Artificial Intelligence Tools" parentid="12" description=""/>
+  <journaldictionary id="35" detail="Hybrid Metaheuristics" parentid="12" description=""/>
+  <journaldictionary id="36" detail="International Conference on Hybrid Intelligent Systems" parentid="10" description=""/>
+  <journaldictionary id="37" detail="International Symposium on Telecommunications" parentid="10" description=""/>
+  <journaldictionary id="38" detail="Advances in Engineering Software" parentid="12" description=""/>
+  <journaldictionary id="39" detail="International Symposium on Information Technology" parentid="10" description=""/>
+  <journaldictionary id="40" detail="International Conference on Evolutionary Multi-Criterion Optimization (EMO)" parentid="10" description=""/>
+  <journaldictionary id="41" detail="Applied Soft Computing" parentid="12" description=""/>
+  <journaldictionary id="42" detail="International Conference on Intelligent System and Knowledge Engineering (ISKE)" parentid="10" description=""/>
+  <journaldictionary id="43" detail="Asia Workshop on Computational Intelligence and Industrial Application (PACIIA)" parentid="10" description=""/>
+  <journaldictionary id="44" detail="Conference on Soft Computing on Industrial Applications (SMCia)" parentid="10" description=""/>
+  <journaldictionary id="45" detail="International Conference on Computer Science and Software Engineering (CSSE)" parentid="10" description=""/>
+  <journaldictionary id="46" detail="International Symposium on IT in Medicine and Education (ITME)" parentid="10" description=""/>
+  <journaldictionary id="47" detail="International Conference on Parallel Problem Solving from Nature" parentid="10" description=""/>
+  <journaldictionary id="48" detail="International Conference on Innovative Computing, Information and Control" parentid="10" description=""/>
+  <journaldictionary id="49" detail="International Conference on Industrial and Information Systems (ICIIS)" parentid="10" description=""/>
+  <journaldictionary id="50" detail="NeuroComputing" parentid="12" description=""/>
+  <journaldictionary id="51" detail="International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP)" parentid="10" description=""/>
+  <journaldictionary id="52" detail="IEEE TKDE" parentid="1" description="IEEE Transactions on Knowledge and Data Engineering (TKDE)"/>
+  <journaldictionary id="53" detail="Institute (TechReport)" parentid="0" description=""/>
+  <journaldictionary id="54" detail="Caltech Concurrent Computation" parentid="53" description=""/>
+</mcjournaldictionary>
